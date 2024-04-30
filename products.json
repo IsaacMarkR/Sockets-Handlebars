@@ -57,5 +57,27 @@
     "stock": "29",
     "category": "Sport",
     "thumbnails": []
+  },
+  {
+    "id": "d9a54449-ee1d-46ac-b9a6-d70bdbfa5dbd",
+    "title": "Raqueta Head",
+    "description": "Head Racquet Speed Sinner 2024",
+    "code": "0583043",
+    "price": 289,
+    "status": true,
+    "stock": "11",
+    "category": "Sport",
+    "thumbnails": []
+  },
+  {
+    "id": "1c4f0fb9-cbc9-437c-8ea7-04e94dab6c48",
+    "title": "Raqueta Head",
+    "description": "Head Racquet Speed Sinner 2023",
+    "code": "05834363",
+    "price": 249,
+    "status": true,
+    "stock": "14",
+    "category": "Sport",
+    "thumbnails": []
   }
 ]
